@@ -1,5 +1,11 @@
 ## Hello
 
+My name is Eleanor, and I'm a student at Reed College in Portland, Oregon.
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+I'm currently working on an R package that handles string processesing.
+
+My pronouns are she/her.
+
 <!--
 **ebt125/ebt125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
